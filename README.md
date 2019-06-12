@@ -10,7 +10,7 @@
 点击button,提示信息”我未被劫持“，hook之后提示”我已被劫持“
 
 
-<div align=center><img width="450" height="475" src="./images/before.jpg"/><t/><img width="450" height="475" src="./images/after.jpg"/></div>
+<div align=center><img width="450" height="475" src="./TestHook/images/before.jpg"/><t/><img width="450" height="475" src="./TestHook/images/after.jpg"/></div>
 
 
 
@@ -18,5 +18,5 @@
 - Android 4.4.4
 
 ## 关注公众号：逆向APP
-<div align=center><img width="258" height="258" src="./images/qrcode_gongzhonghao.jpg"/>
+<div align=center><img width="258" height="258" src="./TestHook/images/qrcode_gongzhonghao.jpg"/>
 
